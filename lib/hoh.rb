@@ -51,6 +51,9 @@ def naming_system
           label: "Class"
         }
       }
+      PORTION_2 = {
+        label: "Order"
+      }
     }
   }
 
